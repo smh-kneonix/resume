@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins&family=Righteous&display=swap');
+
+
+body {
+    background-color: rgb(35, 45, 53);
+    display: flex;
+    justify-content: center;
+}
+
+.first-row {
+    height: 100%;
+    width: 100%;
+    max-width: 1500px;
+}
+
+.first-col {
+    height: 35rem;
+}
+h2 {
+    height: 25px;
+}

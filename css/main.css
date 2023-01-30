@@ -10,7 +10,7 @@ p {
 }
 
 body {
-    background: -webkit-linear-gradient(-45deg, #1b262d 9%,#27333d 44%,#23272b 89%,#293333 100%);
+    background: linear-gradient(90deg, rgba(27,38,45,1) 0%, rgba(42,54,64,1) 49%, rgba(35,39,43,1) 100%);
     display: flex;
     justify-content: center;
 }

@@ -36,7 +36,7 @@ li {
 
 .first-col {
     min-height: 570px;
-    max-height: 600px;
+    max-height: 55rem;
     height: 90vh;
     background: -webkit-linear-gradient(-45deg, #1b262d 9%,#27333d 44%,#23272b 89%,#293333 100%);
 }

@@ -26,14 +26,6 @@ li {
     font-size: 12px;
 }
 
-.progress {
-    height: 8px;
-}
-
-.bg-bar {
-    background-color: #f2b84b;
-}
-
 .first-col {
     min-height: 570px;
     max-height: 55rem;
